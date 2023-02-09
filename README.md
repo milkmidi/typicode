@@ -1,9 +1,7 @@
 ## Try it
 
-[https://my-json-server.typicode.com/typicode/demo](https://my-json-server.typicode.com/typicode/demo)
+[https://my-json-server.typicode.com/milkmidi/typicode/](https://my-json-server.typicode.com/milkmidi/typicode/)
 
-
-[https://my-json-server.typicode.com/milkmidi/typicode/todolist] todolist api
 
 ## Use your own data
 
