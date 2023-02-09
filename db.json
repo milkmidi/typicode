@@ -8,6 +8,55 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
+  "todolist": [
+    { "id": "fakeId0", "text": "React", "done": true },
+    { "id": "fakeId1", "text": "Vue", "done": false },
+    { "id": "fakeId2", "text": "Angular", "done": false }
+  ],
+  "products": [
+    {
+      "id": "5b76175c-a51c-11ed-b9df-0242ac120003",
+      "title": "罐罐",
+      "price": 10,
+      "inventory": 10,
+      "image": "/images/pic01.jpg"
+    },
+    {
+      "id": "5b761b3a-a51c-11ed-b9df-0242ac120003",
+      "title": "乾乾",
+      "price": 20,
+      "inventory": 5,
+      "image": "/images/pic02.jpg"
+    },
+    {
+      "id": "5b761cde-a51c-11ed-b9df-0242ac120003",
+      "title": "乾食",
+      "price": 50,
+      "inventory": 2,
+      "image": "/images/pic03.jpg"
+    },
+    {
+      "id": "5b761e78-a51c-11ed-b9df-0242ac120003",
+      "title": "點心",
+      "price": 40,
+      "inventory": 3,
+      "image": "/images/pic04.jpg"
+    },
+    {
+      "id": "5b761fea-a51c-11ed-b9df-0242ac120003",
+      "title": "貓草",
+      "price": 60,
+      "inventory": 20,
+      "image": "/images/pic05.jpg"
+    },
+    {
+      "id": "5b762170-a51c-11ed-b9df-0242ac120003",
+      "title": "玩具",
+      "price": 90,
+      "inventory": 1,
+      "image": "/images/pic06.jpg"
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
