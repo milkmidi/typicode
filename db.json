@@ -19,42 +19,42 @@
       "title": "罐罐",
       "price": 10,
       "inventory": 10,
-      "image": "/images/pic01.jpg"
+      "image": "https://raw.githubusercontent.com/milkmidi/typicode/master/images/pic01.jpg"
     },
     {
       "id": "5b761b3a-a51c-11ed-b9df-0242ac120003",
       "title": "乾乾",
       "price": 20,
       "inventory": 5,
-      "image": "/images/pic02.jpg"
+      "image": "https://raw.githubusercontent.com/milkmidi/typicode/master/images/pic02.jpg"
     },
     {
       "id": "5b761cde-a51c-11ed-b9df-0242ac120003",
       "title": "乾食",
       "price": 50,
       "inventory": 2,
-      "image": "/images/pic03.jpg"
+      "image": "https://raw.githubusercontent.com/milkmidi/typicode/master/images/pic03.jpg"
     },
     {
       "id": "5b761e78-a51c-11ed-b9df-0242ac120003",
       "title": "點心",
       "price": 40,
       "inventory": 3,
-      "image": "/images/pic04.jpg"
+      "image": "https://raw.githubusercontent.com/milkmidi/typicode/master/images/pic04.jpg"
     },
     {
       "id": "5b761fea-a51c-11ed-b9df-0242ac120003",
       "title": "貓草",
       "price": 60,
       "inventory": 20,
-      "image": "/images/pic05.jpg"
+      "image": "https://raw.githubusercontent.com/milkmidi/typicode/master/images/pic05.jpg"
     },
     {
       "id": "5b762170-a51c-11ed-b9df-0242ac120003",
       "title": "玩具",
       "price": 90,
       "inventory": 1,
-      "image": "/images/pic06.jpg"
+      "image": "https://raw.githubusercontent.com/milkmidi/typicode/master/images/pic06.jpg"
     }
   ],
   "profile": {

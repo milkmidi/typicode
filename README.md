@@ -2,6 +2,9 @@
 
 [https://my-json-server.typicode.com/milkmidi/typicode/](https://my-json-server.typicode.com/milkmidi/typicode/)
 
+### API QueryString
+
+- _delay
 
 ## Use your own data
 
